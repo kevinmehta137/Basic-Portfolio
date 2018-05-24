@@ -1,0 +1,51 @@
+.mySlides 
+{
+    display:none;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.content
+{
+    max-width:980px;
+    margin:auto;
+}
+.section,.code
+{
+    margin-top:16px!important;
+    margin-bottom:16px!important;
+}
+h1
+{
+    text-align: center;
+
+}
+.detail
+{
+    background-color: chartreuse;
+}
+.backimage
+{
+     /* Set rules to fill background */
+    background-image: url('C:/Users/Kevin/Homework/Basic-Portfolio/assets/images/Artoard 1.png');
+      /* Full height */
+      height: 100%; 
+
+      /* Center and scale the image nicely */
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+}
+.row { 
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 60px;
+    margin-right: 60px;
+    padding: 0 4px;
+}
+
+/* Create four equal columns that sits next to each other */
+.column {
+    flex: 25%;
+    max-width: 25%;
+    padding: 0 4px;
+}
