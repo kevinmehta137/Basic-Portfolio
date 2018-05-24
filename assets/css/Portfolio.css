@@ -26,7 +26,7 @@ h1
 .backimage
 {
      /* Set rules to fill background */
-    background-image: url('C:/Users/Kevin/Homework/Basic-Portfolio/assets/images/Artoard 1.png');
+    background-image: url('../images/Artoard 1.png');
       /* Full height */
       height: 100%; 
 

@@ -26,7 +26,6 @@ li a {
     padding: 14px 16px;
     text-decoration: none;
 }
-
 li a:hover {
     background-color: #111;
 }
@@ -41,7 +40,7 @@ li a:hover {
     background-color: #4CAF50;
 }
 .container {
-    background-image: url("C:/Users/Kevin/Homework/Basic-Portfolio/assets/images/Artboard 1.png");
+    background-image: url("../images/Artboard 1.png");
     background-repeat: no-repeat;
     background-size: auto;
     position: relative;
